@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HW07</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="loginTitle">Login</string>
+    <string name="createAccountTitle">Create New Account</string>
+    <string name="usersListTitle">Users List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="nameHint">Name</string>
+    <string name="loginButton">Login</string>
+    <string name="createAccountTextView">Create New Account</string>
+    <string name="mandatoryFields">All fields are mandatory</string>
+    <string name="ok">OK</string>
+    <string name="submitButton">Submit</string>
+    <string name="cancelRegister">Cancel</string>
+    <string name="logoutButton">Logout</string>
+    <string name="profile_label">Your Profile</string>
+    <string name="add_photo_label">Add Photo</string>
+    <string name="likes_label">Likes:</string>
+    <string name="comments_label">Comments:</string>
+    <string name="delete_label">Delete</string>
+    <string name="error_message">Error:</string>
+    <string name="post_label">Post</string>
+    <string name="add_comment_hint" >Add Comment</string>
+    <string name="comment_desc_blank" >Comment Description is Blank</string>
+    <string name="profile_details" >Profile Details</string>
+    <string name="my_profile" >My Profile</string>
+</resources>
